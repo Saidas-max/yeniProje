@@ -1,8 +1,9 @@
 …or create a new repository on the command line
 echo "# newProject" >> README.md
 git init done
-git add README.md
-git commit -m "first commit"
-git branch -M main
+git add README.md done
+git commit -m "first commit" done
+git branch -M main done
 git remote add origin https://github.com/Saidas-max/newProject.git
 git push -u origin main
+secon code push
