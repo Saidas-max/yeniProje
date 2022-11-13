@@ -6,4 +6,4 @@ git commit -m "first commit" done
 git branch -M main done
 git remote add origin https://github.com/Saidas-max/newProject.git
 git push -u origin main
-secon code push
+second code push
